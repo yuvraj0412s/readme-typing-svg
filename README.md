@@ -141,7 +141,6 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 [![Ahmed Nassar](https://github.com/AhmedNassar7.png?size=60)](https://github.com/AhmedNassar7 "Ahmed Nassar on Github")
 [![Yuvraj Singh](https://github.com/yuvraj0412s.png?size=60)](https://github.com/yuvraj0412s "Yuvraj Singh on GitHub")
 
-
 Feel free to [open a PR](https://github.com/DenverCoder1/readme-typing-svg/issues/21#issue-870549556) and add yours!
 
 ## 🔧 Options
